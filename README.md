@@ -5,7 +5,7 @@ Para acessar o jogo https://editor.p5js.org/HaileDin/sketches/nUQIq6Ye-
 
 Linguagens usadas:
 
-JavaScript
+JavaScript e
 HTML
 
 
